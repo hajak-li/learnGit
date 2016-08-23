@@ -9,3 +9,5 @@ Git is licensed by append GPL
 Git has a mutable index called state.
 
 Git tracks changes.
+
+My boss is stupid.
