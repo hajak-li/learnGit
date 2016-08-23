@@ -11,3 +11,5 @@ Git has a mutable index called state.
 Git tracks changes.
 
 My boss is stupid.
+
+Creating a new branch is quick.
