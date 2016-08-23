@@ -12,4 +12,4 @@ Git tracks changes.
 
 My boss is stupid.
 
-Creating a new branch is quick.
+Creating a new branch is quick AND simple.
