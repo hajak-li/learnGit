@@ -15,3 +15,6 @@ My boss is stupid.
 Creating a new branch is quick and simple. 
 
 Fix bug
+Creating a new branch is quick and simple.
+
+Stash
